@@ -2,7 +2,7 @@
 
 |                             | Padrões Criacionais    | São técnicas que ajudam controlar como as instâncias de classes são criadas       |
 |-----------------------------|------------------------|-----------------------------------------------------------------------------------|
-| [:gem:][17]                 | [Singleton][41]        | Garante que apenas um objeto de uma determinada classe seja criado                |
+|  :gem:                      |  Singleton             | Garante que apenas um objeto de uma determinada classe seja criado                |
 
 
 ## Referências utilizadas
